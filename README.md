@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 My Tech Stack
+## 🚀 Tech Stack
 
 ### 💻 Programming Languages
 <p align="center">
