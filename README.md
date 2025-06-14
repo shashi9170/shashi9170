@@ -104,7 +104,7 @@
   <a href="https://x.com/PrakashSha700">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X">
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:shashipra2002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
