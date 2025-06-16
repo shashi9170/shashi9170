@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: 'Fira Code', monospace; color: #22D3EE">
-  Hey there! 👋
+  Hi 👋,
   I'm <span style="background: linear-gradient(45deg, #30CFD0, #c43ad6); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Shashi Prakash</span>
 </h1>
 
