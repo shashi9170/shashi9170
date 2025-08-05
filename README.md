@@ -109,7 +109,7 @@
 - [Education Platform](https://education-client-topaz.vercel.app/)  
   <sub>🚀 A modern education platform built for scalability, usability, and a clean UI. [Live Demo](https://education-client-topaz.vercel.app/)</sub>
 
-- [Collaboration Text Editor](https://code-editor-79j3.onrender.com)  
+- [Collaboration Code Editor](https://code-editor-79j3.onrender.com)  
   <sub>📝 A real-time collaborative code editor supporting multiple users, built for seamless teamwork and efficient coding. [Check it out](https://code-editor-79j3.onrender.com)</sub>
 
 - [Library Management System](https://react-phi-coral.vercel.app/)  
