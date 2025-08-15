@@ -14,7 +14,7 @@
 
 - 🔭 **Full Stack Developer** passionate about building and scaling products.
 - 🤖 Exploring **AI/ML** and leveraging data to solve real-world problems.
-- 🏆 Competitive programmer on <a href="https://codeforces.com/profile/shashipra2002">Codeforces</a>, <a href="https://leetcode.com/u/___patel___">LeetCode</a>, <a href="https://www.codechef.com/users/shashi90">CodeChef</a>, and <a href="https://atcoder.jp/users/shashipra2002">AtCoder</a>.
+- 🏆 Competitive programmer on <a href="https://codeforces.com/profile/shashipra2002">Codeforces</a>, <a href="https://leetcode.com/u/___patel___">LeetCode</a>, <a href="https://www.codechef.com/users/shashi90">CodeChef</a>, and <a href="https://atcoder.jp/users/shashi__2002">AtCoder</a>.
 - 💡 Solved **1000+ algorithmic problems** across platforms.
 - 💬 Love collaborating on open-source and innovative projects.
 - 📬 Let’s connect and create something awesome together!
